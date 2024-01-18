@@ -1,0 +1,11 @@
+1)Play individually or in groups.
+
+2)User should select and enter a letter of the alphabet into the given space.
+
+3)If the letter is contained in the word/phrase, the letter will reveal its positions and the group or individual takes another turn guessing a letter.
+
+4)Keep an eye on the number of wrong guesses you can make, as that indicates whether the game continues or not
+
+5)The game continues until:
+  (a)The word/phrase is guessed (all letters are revealed) – WINNER or,
+  (b)The wrong guess counter reaches 0 – LOSER
